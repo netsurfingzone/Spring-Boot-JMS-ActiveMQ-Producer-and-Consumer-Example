@@ -2,7 +2,7 @@
 Spring Boot JMS ActiveMQ Producer and Consumer Example
 
 Spring boot JMS ActiveMQ example from scratch - Step by step guide.
-https://www.netsurfingzone.com/spring-boot/spring-boot-jms-activemq-producer-and-consumer-example/
+https://www.javatute.com/spring-boot/spring-boot-jms-activemq-producer-and-consumer-example/
 
 This tutorial covers:-
 1. How to send User defined message in JSON format.
